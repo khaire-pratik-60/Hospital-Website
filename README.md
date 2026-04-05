@@ -80,13 +80,13 @@ A modern, responsive, and user-friendly healthcare website landing page built wi
 - Direct appointment scheduling
 
 ### Gallery
-- Showcase of hospital facilities and infrastructure
-- High-quality images of medical equipment and services
-- Display area featuring 3 images
 
-![Gallery Image 1](assets/gallery-1.jpg)
-![Gallery Image 2](assets/gallery-2.jpg)
-![Gallery Image 3](assets/gallery-3.jpg)
+<img width="1366" height="768" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/a332b8a8-8842-4eb6-b1ac-b235878c00bd" />
+
+<img width="1366" height="768" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/2fd1687f-39c9-4584-969d-93f779ab5686" />
+
+<img width="1366" height="768" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/9e075612-967c-47b9-b06b-1b6abc8520dd" />
+
 
 ## Customization
 
