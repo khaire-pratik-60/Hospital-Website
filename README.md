@@ -14,6 +14,7 @@ A modern, responsive, and user-friendly healthcare website landing page built wi
   - Why Choose Us section with key benefits and features
   - Doctors section showcasing medical professionals with their specialties
   - Appointment booking section for patient convenience
+  - Gallery section showcasing hospital facilities and services
   - Contact Us information with location and contact details
   - Footer with comprehensive links and social media
 
@@ -36,7 +37,10 @@ A modern, responsive, and user-friendly healthcare website landing page built wi
     ├── choose-us.jpg
     ├── doctor-1.jpg
     ├── doctor-2.jpg
-    └── doctor-3.jpg
+    ├── doctor-3.jpg
+    ├── gallery-1.jpg
+    ├── gallery-2.jpg
+    └── gallery-3.jpg
 ```
 
 ## How to Use
@@ -72,6 +76,15 @@ A modern, responsive, and user-friendly healthcare website landing page built wi
 - Easy-to-use booking form
 - Fields for name, address, and contact information
 - Direct appointment scheduling
+
+### Gallery
+- Showcase of hospital facilities and infrastructure
+- High-quality images of medical equipment and services
+- Display area featuring 3 images
+
+![Gallery Image 1](assets/gallery-1.jpg)
+![Gallery Image 2](assets/gallery-2.jpg)
+![Gallery Image 3](assets/gallery-3.jpg)
 
 ## Customization
 
