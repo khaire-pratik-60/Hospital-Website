@@ -1,4 +1,4 @@
-# Khaire Hospital - Healthcare Website Landing Page
+# SNJB Hospital - Healthcare Website Landing Page
 
 A modern, responsive, and user-friendly healthcare website landing page built with HTML and CSS. This project showcases a professional hospital website design with smooth navigation, beautiful UI components, and comprehensive information about medical services.
 
